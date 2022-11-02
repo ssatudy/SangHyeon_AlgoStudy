@@ -1,1 +1,1 @@
-# Sang_Hyeon
+# Only C++
